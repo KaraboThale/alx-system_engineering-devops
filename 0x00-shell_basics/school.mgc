@@ -1,2 +1,2 @@
-0 string HOLBERTON Holberton data
-!: mime School
+0   string  SCHOOL  School data file
+>0  byte    0x53    School data file, version 1
