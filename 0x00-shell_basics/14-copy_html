@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 1 -name "*.html" -newermt "$(date -r ../ +%Y-%m-%d\ %H:%M:%S)" -exec cp -u {} ../
+cp -u *.html ../
