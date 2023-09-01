@@ -1,2 +1,2 @@
 0   string  SCHOOL  School data file
->0  byte    0x53    School data file, version 1
+file -m school.mgc your_school_data_file
